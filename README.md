@@ -1,4 +1,4 @@
-### Hi! I'am Emanuel Souza Costa 👋🏻
+### Hi! I am Emanuel Souza Costa 👋🏻
 
 - I am a Computer Engineering student at UFPB 📚
 - I'm 22 years old 😁
