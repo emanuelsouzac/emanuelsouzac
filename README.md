@@ -1,7 +1,7 @@
 ### Hi! I am Emanuel Souza Costa 👋🏻
 
 - I am a Computer Engineering student at UFPB 📚
-- I'm 22 years old 😁
+- I'm 23 years old 😁
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emanuelsouzac)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-souza-2a0051234/)
